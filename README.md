@@ -7,6 +7,7 @@ The application can be used by freshers and visitors to locate places which they
  ## Build With 
  * Unity 3D
  * Autodesk Maya
+ * Canva for UI 
  
  ## Installation
  Install bvpmap.apk on your android device and open the "BVPmap" app to explore.
