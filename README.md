@@ -27,11 +27,11 @@ The application can be used by freshers and visitors to locate places which they
 
 <img src="https://user-images.githubusercontent.com/31439780/94339801-3e577200-001a-11eb-8b9c-9bab8a91443e.png" width="600" />
 
-### Building Information On Tap
+### View Information of Building On Tapping on it
 
 <img src="https://user-images.githubusercontent.com/31439780/94339816-53cc9c00-001a-11eb-95b2-1c640a871e92.png" width="600" />
 
-### Redirected to Faculty Info 
+### Redirected to Faculty Information Page On Website 
 
 <img src="https://user-images.githubusercontent.com/31439780/94339814-516a4200-001a-11eb-9eb0-56d7f00bdecc.png" width="200" />
 
